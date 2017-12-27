@@ -1,0 +1,6 @@
+c:\users\serenity\documents\visual studio 2015\Projects\SerealizePractice\SerealizePractice\bin\Debug\SerealizePractice.exe.config
+c:\users\serenity\documents\visual studio 2015\Projects\SerealizePractice\SerealizePractice\bin\Debug\SerealizePractice.exe
+c:\users\serenity\documents\visual studio 2015\Projects\SerealizePractice\SerealizePractice\bin\Debug\SerealizePractice.pdb
+c:\users\serenity\documents\visual studio 2015\Projects\SerealizePractice\SerealizePractice\obj\Debug\SerealizePractice.csprojResolveAssemblyReference.cache
+c:\users\serenity\documents\visual studio 2015\Projects\SerealizePractice\SerealizePractice\obj\Debug\SerealizePractice.exe
+c:\users\serenity\documents\visual studio 2015\Projects\SerealizePractice\SerealizePractice\obj\Debug\SerealizePractice.pdb
